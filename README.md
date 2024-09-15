@@ -20,14 +20,21 @@ Ensure you have the following tools installed:
 ## Configuration
 
 ### Keycloak
+How to run keycloak in dev mode 
+
+![Running keycloak version 25-0-4 iN dev Mode](keycloak.png)
 
 Keycloak is used for authentication. We use two Keycloak clients:
 
 1. **Backend Client**: For server-side authentication.
-2. 
+
 For the backend client configuration in Keycloak, refer to the screenshots below for detailed setup instructions.
 
 ![Backend Client Configuration Screenshot](Backend-client-configuration.png)
+
+![Backend Client Roles Screenshot](Backend-client-roles.png)
+
+![Realm Users Screenshot](Realm-Users.png)
 
 ### PostgreSQL
 
