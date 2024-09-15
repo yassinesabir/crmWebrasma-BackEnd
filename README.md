@@ -27,7 +27,7 @@ Keycloak is used for authentication. We use two Keycloak clients:
 2. 
 For the backend client configuration in Keycloak, refer to the screenshots below for detailed setup instructions.
 
-![Backend Client Configuration Screenshot](src/main/resources/static/images/Backend-client-configuration.png)
+![Backend Client Configuration Screenshot](Backend-client-configuration.png)
 
 ### PostgreSQL
 
